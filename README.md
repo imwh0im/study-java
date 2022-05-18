@@ -19,6 +19,7 @@ Java 를 한번 공부해봐야겠어요. [Java의 정석](http://www.yes24.com/
   - 지피지기 백전불태
 
 #### 어떻게
+  - Java 8 / 17
   - 우선 언어의 기본적인 자료형부터
   - 그리고 프레임워크 (Spring + JPA)
     - Spring Boot 는 Spring 이 조금 손에 익으면
